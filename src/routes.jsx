@@ -5,7 +5,7 @@ import App2 from './App2'
 
 const router = createBrowserRouter([
     {
-        path: '/',
+        path: '/reactRouting/',
         element : <App/>
     },
     {
