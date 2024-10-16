@@ -5,11 +5,11 @@ import App2 from './App2'
 
 const router = createBrowserRouter([
     {
-        path: 'https://tienbot.github.io/reactRouting/',
+        path: '/reactRouting',
         element : <App/>
     },
     {
-        path: '/App2',
+        path: '/reactRouting/App2',
         element : <App2/>
     },
     {

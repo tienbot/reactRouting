@@ -7,7 +7,7 @@ function App2() {
 
   return (
     <>
-      <Button onClick={() => navigate('/')}/>
+      <Button onClick={() => navigate('/reactRouting')}/>
     </>
   )
 }
